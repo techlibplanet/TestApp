@@ -19,7 +19,9 @@
         <activity android:name=".PlayActivity" />
         <activity android:name=".DetailsActivity" />
         <activity android:name=".WalletActivity" />
-        <activity android:name=".AddPoints"></activity>
+        <activity android:name=".AddPoints" />
+        <activity android:name=".WithdrawalPoints" />
+        <activity android:name=".TransferPoints"></activity>
     </application>
 
 </manifest>
