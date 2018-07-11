@@ -21,7 +21,8 @@
         <activity android:name=".WalletActivity" />
         <activity android:name=".AddPoints" />
         <activity android:name=".WithdrawalPoints" />
-        <activity android:name=".TransferPoints"></activity>
+        <activity android:name=".TransferPoints" />
+        <activity android:name=".ResultActivity"></activity>
     </application>
 
 </manifest>
