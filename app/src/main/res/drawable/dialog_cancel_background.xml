@@ -9,10 +9,10 @@
         android:bottomLeftRadius="45dp"
         android:topRightRadius="90dp"
         android:bottomRightRadius="90dp"></corners>
-    <padding
-        android:bottom="15dp"
-        android:left="15dp"
-        android:right="15dp"
-        android:top="15dp" />
+    <!--<padding-->
+        <!--android:bottom="15dp"-->
+        <!--android:left="15dp"-->
+        <!--android:right="15dp"-->
+        <!--android:top="15dp" />-->
 
 </shape>

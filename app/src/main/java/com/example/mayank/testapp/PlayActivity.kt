@@ -49,7 +49,18 @@ class PlayActivity : AppCompatActivity(), View.OnClickListener {
                 startActivity(intent)
             }
             R.id.quickGameButton ->{
+                val intent = Intent(this, SampleCountdownTimer::class.java)
+                startActivity(intent)
+            }
 
+            R.id.multiplayerButton ->{
+                val intent = Intent(this, DetailsActivity::class.java)
+                startActivity(intent)
+            }
+
+            R.id.invitationButton ->{
+                val intent = Intent(this, LoginActivity::class.java)
+                startActivity(intent)
             }
 
         }

@@ -40,20 +40,20 @@
         <Button
             android:textStyle="bold"
             android:textColor="@color/colorWhite"
-            android:rotationY="30"
-            android:background="@drawable/button_background_leaderboards"
+            android:rotationY="-30"
+            android:background="@drawable/dialog_ok_background"
             android:id="@+id/buttonOk"
-            android:layout_width="100dp"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Ok" />
 
         <Button
             android:textStyle="bold"
             android:textColor="@color/colorWhite"
-            android:rotationY="-30"
+            android:rotationY="30"
             android:background="@drawable/dialog_cancel_background"
             android:id="@+id/buttonCancel"
-            android:layout_width="100dp"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Cancel" />
 

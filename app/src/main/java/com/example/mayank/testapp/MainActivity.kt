@@ -55,7 +55,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
             R.id.buttonAchievements ->{
                 val showDialog = ShowDialog()
-                showDialog.dialog(this@MainActivity, "Play Games", "This is a sample dialog")
+                showDialog.dialog(this@MainActivity, "Play Games", "This is a sample dialog in which i want to show some messages.")
             }
 
             R.id.buttonWallet ->{

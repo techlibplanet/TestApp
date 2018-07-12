@@ -66,6 +66,10 @@ class WalletActivity : AppCompatActivity(), View.OnClickListener {
                 val intent = Intent(this, TransferPoints::class.java)
                 startActivity(intent)
             }
+            R.id.buttonTransactions ->{
+                val intent = Intent(this, AndroidProgressBar::class.java)
+                startActivity(intent)
+            }
         }
     }
 

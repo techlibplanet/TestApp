@@ -22,7 +22,10 @@
         <activity android:name=".AddPoints" />
         <activity android:name=".WithdrawalPoints" />
         <activity android:name=".TransferPoints" />
-        <activity android:name=".ResultActivity"></activity>
+        <activity android:name=".ResultActivity" />
+        <activity android:name=".AndroidProgressBar" />
+        <activity android:name=".SampleCountdownTimer" />
+        <activity android:name=".LoginActivity"></activity>
     </application>
 
 </manifest>
