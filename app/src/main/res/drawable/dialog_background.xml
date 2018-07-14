@@ -5,14 +5,14 @@
         android:startColor="@color/colorBackground"></gradient>
 
     <corners
-    android:topLeftRadius="30dp"
+    android:topLeftRadius="15dp"
     android:bottomLeftRadius="15dp"
-    android:topRightRadius="30dp"
+    android:topRightRadius="15dp"
     android:bottomRightRadius="15dp"></corners>
-    <padding
-        android:bottom="15dp"
-        android:left="15dp"
-        android:right="15dp"
-        android:top="15dp" />
+    <!--<padding-->
+        <!--android:bottom="15dp"-->
+        <!--android:left="15dp"-->
+        <!--android:right="15dp"-->
+        <!--android:top="15dp" />-->
 
 </shape>
